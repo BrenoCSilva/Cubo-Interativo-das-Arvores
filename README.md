@@ -92,25 +92,6 @@ O display é responsável por apresentar as informações gerais da cadastradas.
 
 Como vários componentes começaram a utilizar as mesmas portas do Arduino, foi necessário organizar melhor as conexões. Para isso, utilizamos uma placa de fenolite, criando trilhas para as portas mais utilizadas:  
 
- <table>
- <tr>
-   <td>
-      <img src="imagens/aranha1.jpeg" alt="Distribuição de trilhas na placa de fenolite" width="300px">
-   </td>
-   <td>
-     <table>
-        <tr><td><b>GND</b></td><td><b>Branco</b></td></tr>
-        <tr><td><b>5V</b></td><td><b>Vermelho</b></td></tr>
-        <tr><td><b>3.3V</b></td><td><b>Amarelo</b></td></tr>
-      </table>
-   </td>
- </tr>
-</table>
-
-### Distribuição de Tensão e Terra  
-
-Como vários componentes começaram a utilizar as mesmas portas do Arduino, foi necessário organizar melhor as conexões. Para isso, utilizamos uma placa de fenolite, criando trilhas para as portas mais utilizadas:  
-
 <div align="center">
 <table>
  <tr>
@@ -130,6 +111,19 @@ Como vários componentes começaram a utilizar as mesmas portas do Arduino, foi 
 </div>
 
 > **Legenda:** Placa de fenolite utilizada para distribuição de GND, 5V e 3.3V.
+
+### Integração: Módulo RFID e Display OLED  
+
+ Integração entre o **módulo RFID** e o **display OLED (SH1106 128x64)**, conectados ao **Arduino Mega**. O display foi configurado para exibir mensagens conforme a interação com o RFID.  
+
+A imagem abaixo mostra a configuração do hardware, onde os componentes estão interligados por meio de uma placa de fenolite, responsável por distribuir as tensões corretamente.  
+
+<div align="center">
+  <img src="imagens/integrado1.jpeg" alt="Integração do módulo RFID com Display OLED" width="400px">
+</div>
+
+> **Mensagem no Display:** "Aproxime-se de uma árvore...!"  
+> Essa mensagem é um indicativo de que o sistema está aguardando um cartão RFID para ativar uma ação específica.
 
 
 
