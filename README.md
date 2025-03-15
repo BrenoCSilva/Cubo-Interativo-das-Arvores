@@ -86,6 +86,23 @@ O display é responsável por apresentar as informações gerais da cadastradas.
  </tr>
 </table>
 
+### Distribuição de Tensão e Terra  
+
+Como vários componentes começaram a utilizar as mesmas portas do Arduino, foi necessário organizar melhor as conexões. Para isso, utilizamos uma placa de fenolite, criando trilhas para as portas mais utilizadas:  
+
+ <table>
+ <tr>
+   <td>
+      <img src="imagens/aranha1.jpeg" alt="Distribuição de trilhas na placa de fenolite" width="300px">
+   </td>
+   <td>
+     - **GND** → Fio **Branco**  
+     - **5V** → Fio **Vermelho**  
+     - **3.3V** → Fio **Amarelo**  
+   </td>
+ </tr>
+</table>
+
 
 
 
