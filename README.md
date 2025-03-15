@@ -34,9 +34,33 @@ Cada face do cubo interativo apresenta uma categoria específica de informaçõe
 | Arduino Mega     | 1          | Controla os sensores RFID, LEDs e botões, processando e exibindo informações sobre as árvores.        |
 | ESP32            | 1          | Coleta dados dos sensores de temperatura e qualidade do ar e os envia para um broker MQTT. |
 
-**Observação: Os sensores ENS160 e AHT21 estão integrados em um único módulo.
+**Observação**: Os sensores ENS160 e AHT21 estão integrados em um único módulo.
 
 
 # Processo de Montagem 
 
 As faces do cubo foram cortadas utilizando uma máquina de corte automatizada, garantindo precisão nas dimensões e encaixes. Os componentes eletrônicos foram distribuídos de acordo com a funcionalidade de cada face e conectados ao Arduino Mega e ao ESP32 conforme necessário.
+
+
+
+### Conexão do Módulo RC522 (Leitor RFID) ao Arduino Mega  
+
+O módulo RC522 é responsável pela leitura das tags RFID que identificam as árvores cadastradas. Ele se comunica com o Arduino Mega por meio do protocolo SPI. Abaixo estão as conexões utilizadas:  
+
+#### Tabela de Conexões  
+
+| Pino do RC522 | Pino do Arduino Mega |
+|--------------|--------------------|
+| **3.3V**    | **3.3V**           |
+| **GND**     | **GND**            |
+| **RESET**   | **Porta digital 5** |
+| **SDA**     | **Porta digital 53** |
+| **SCL**     | **Porta digital 52** |
+| **MOSI**    | **Porta digital 51** |
+| **MISO**    | **Porta digital 50** |
+
+A imagem abaixo mostra a conexão do módulo RC522 ao Arduino Mega:  
+
+![Conexão RC522 com Arduino Mega](caminho/para/sua/imagem.jpeg)
+
+
