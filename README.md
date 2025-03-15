@@ -1,8 +1,19 @@
 
-# Sobre o Protótipo
+# Descrição do Protótipo
 
-Trabalho desenvolvido na disciplina Projeto Integrado à Computação I, sob a orientação do professor Vinícius Fernandes Soares Mota, em parceria com o curso de Arquitetura e Urbanismo, representado pela professora Marcela Almeida. O projeto tem como objetivo a criação de um cubo interativo que fornece informações sobre árvores previamente selecionadas e capta dados ambientais do entorno, como temperatura e qualidade do ar.
+Trabalho desenvolvido na disciplina Projeto Integrado à Computação I, sob a orientação do professor Vinícius Fernandes Soares Mota, em parceria com o curso de Arquitetura e Urbanismo, representado pela professora Marcela Almeida. O projeto tem como objetivo a criação de um cubo interativo que exibe informações sobre árvores previamente selecionadas e coleta dados ambientais do entorno, como a temperatura e a qualidade do ar. Cada face do cubo apresenta uma categoria específica de informações, como porte da árvore, floração, frutificação, dados do ambiente e dados gerais.
 
+## Disposição das Informações  
+
+Cada face do cubo interativo apresenta uma categoria específica de informações:  
+
+- **Face 1:** Informações gerais da árvore (Nome, origem, bioma e copa).  
+- **Face 2:** Porte da árvore (pequeno, médio, grande).  
+- **Face 3:** Dados ambientais (temperatura e qualidade do ar).  
+- **Face 4:** Floração (indicação de presença e meses de floração).  
+- **Face 5:** Frutificação (indicação de presença e meses de frutificação).  
+- **Face 6:** Face cega - exibição sem informações.  
+ 
 # Componentes
 
 | Componente       | Quantidade | Função |
@@ -22,4 +33,4 @@ Trabalho desenvolvido na disciplina Projeto Integrado à Computação I, sob a o
 | Sensor AHT21      | 1         | Mede temperatura e umidade do ambiente. |
 | ESP32            | 1          | Envia dados de temperatura, umidade e qualidade do ar para um broker MQTT. |
 
-obs: ENS160 e AHT21 estão integrados em um único componente.
+**Observação: Os sensores ENS160 e AHT21 estão integrados em um único módulo.
