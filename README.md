@@ -20,7 +20,7 @@ Cada face do cubo interativo apresenta uma categoria específica de informaçõe
 |------------------|------------|--------|
 | Módulo RC522     | 1          | Captura o UID das tags RFID. |
 | Tags RFID        | 10         | Cada UID está vinculado a informações de uma árvore. |
-| Display OLED     | 1          | Apresenta informações gerais sobre a árvore identificada. |
+| Display OLED (SH1106, I2C, 128x64)    | 1          | Apresenta informações gerais sobre a árvore identificada. |
 | Fita LED (3 segmentos)  | 1   | Indica o porte da árvore (pequeno, médio, grande). |
 | Fita LED (10 segmentos) | 1   | Sinaliza se a árvore possui flor. |
 | Fita LED (12 segmentos) | 1   | Apresenta os meses de floração. |
