@@ -105,6 +105,31 @@ Como vários componentes começaram a utilizar as mesmas portas do Arduino, foi 
  </tr>
 </table>
 
+### Distribuição de Tensão e Terra  
+
+Como vários componentes começaram a utilizar as mesmas portas do Arduino, foi necessário organizar melhor as conexões. Para isso, utilizamos uma placa de fenolite, criando trilhas para as portas mais utilizadas:  
+
+<div align="center">
+<table>
+ <tr>
+   <td>
+      <img src="imagens/aranha1.jpeg" alt="Distribuição de trilhas na placa de fenolite" width="250px">
+   </td>
+   <td>
+     <table>
+        <tr><th>Porta</th><th>Cor</th></tr>
+        <tr><td><b>GND</b></td><td style="color:white; background:black;"><b>Branco</b></td></tr>
+        <tr><td><b>5V</b></td><td style="color:white; background:red;"><b>Vermelho</b></td></tr>
+        <tr><td><b>3.3V</b></td><td style="color:black; background:yellow;"><b>Amarelo</b></td></tr>
+      </table>
+   </td>
+ </tr>
+</table>
+</div>
+
+> **Legenda:** Placa de fenolite utilizada para distribuição de GND, 5V e 3.3V.
+
+
 
 
 
