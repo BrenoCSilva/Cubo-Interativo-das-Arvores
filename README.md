@@ -78,7 +78,7 @@ O módulo RC522 é responsável pela leitura das tags RFID que identificam as á
         <tr><td><b>SDA</b></td><td><b>Porta digital 20</b></td></tr>
         <tr><td><b>SCL</b></td><td><b>Porta digital 21</b></td></tr>
       </table>
- 
+ </tr>
 </table>
 
 
