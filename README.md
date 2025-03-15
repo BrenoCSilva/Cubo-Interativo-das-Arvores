@@ -61,6 +61,6 @@ O módulo RC522 é responsável pela leitura das tags RFID que identificam as á
 
 A imagem abaixo mostra a conexão do módulo RC522 ao Arduino Mega:  
 
-![Conexão RC522 com Arduino Mega](imagem/RC522.jpeg)
+![Conexão RC522 com Arduino Mega](imagens/RC522.jpeg)
 
 
