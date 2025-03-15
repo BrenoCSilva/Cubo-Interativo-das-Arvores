@@ -1,5 +1,9 @@
-# Cubo-Interativo
 
+# Sobre o Protótipo
+
+Trabalho desenvolvido na disciplina Projeto Integrado à Computação I, sob a orientação do professor Vinícius Fernandes Soares Mota, em parceria com o curso de Arquitetura e Urbanismo, representado pela professora Marcela Almeida. O projeto tem como objetivo a criação de um cubo interativo que fornece informações sobre árvores previamente selecionadas e capta dados ambientais do entorno, como temperatura e qualidade do ar.
+
+# Componentes
 
 | Componente       | Quantidade | Função |
 |------------------|------------|--------|
@@ -18,4 +22,4 @@
 | Sensor AHT21      | 1         | Mede temperatura e umidade do ambiente. |
 | ESP32            | 1          | Envia dados de temperatura, umidade e qualidade do ar para um broker MQTT. |
 
-obs: ENS160 e AHT21 estão integrados em um único componente
+obs: ENS160 e AHT21 estão integrados em um único componente.
