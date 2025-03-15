@@ -69,7 +69,7 @@ O módulo RC522 é responsável pela leitura das tags RFID que identificam as á
 ### Conexão do DISPLAY OLED (SH1106 128x64) ao Arduino Mega  
 
 O display é responsável por apresentar as informações gerais da cadastradas. Como nome, origem, bioma e copa. Ele se comunica com o Arduino Mega por meio do protocolo I2C. Abaixo estão as conexões utilizadas:  
- 
+ <table>
  <tr>
    <td>
       <img src="imagens/displayOLED.jpeg" alt="Conexão DISPLAY com o Arduino Mega" width="200px">
