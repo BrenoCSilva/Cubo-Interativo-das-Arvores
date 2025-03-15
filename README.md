@@ -96,9 +96,11 @@ Como vários componentes começaram a utilizar as mesmas portas do Arduino, foi 
       <img src="imagens/aranha1.jpeg" alt="Distribuição de trilhas na placa de fenolite" width="300px">
    </td>
    <td>
-     - **GND** → Fio **Branco**  
-     - **5V** → Fio **Vermelho**  
-     - **3.3V** → Fio **Amarelo**  
+     <table>
+        <tr><td><b>GND</b></td><td><b>Branco</b></td></tr>
+        <tr><td><b>5V</b></td><td><b>Vermelho</b></td></tr>
+        <tr><td><b>3.3V</b></td><td><b>Amarelo</b></td></tr>
+      </table>
    </td>
  </tr>
 </table>
