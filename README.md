@@ -17,3 +17,5 @@
 | Sensor ENS160     | 1         | Captura a qualidade do ar, CO₂ e compostos orgânicos voláteis (VOCs). |
 | Sensor AHT21      | 1         | Mede temperatura e umidade do ambiente. |
 | ESP32            | 1          | Envia dados de temperatura, umidade e qualidade do ar para um broker MQTT. |
+
+obs: ENS160 e AHT21 estão integrados em um único componente
