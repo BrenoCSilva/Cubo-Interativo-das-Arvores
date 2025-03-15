@@ -72,7 +72,7 @@ O display é responsável por apresentar as informações gerais da cadastradas.
  <table>
  <tr>
    <td>
-      <img src="imagens/displayOLED.jpeg" alt="Conexão DISPLAY com o Arduino Mega" style="width: 220px; margin-right: 30px;">
+      <img src="imagens/displayOLED.jpeg" alt="Conexão DISPLAY com o Arduino Mega" style="width: 220px; margin-right: 300px;">
    </td>
    <td>
       <table>
