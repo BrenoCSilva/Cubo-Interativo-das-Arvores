@@ -75,7 +75,6 @@ O display é responsável por apresentar as informações gerais da cadastradas.
       <img src="imagens/displayOLED.jpeg" alt="Conexão DISPLAY com o Arduino Mega" style="width: 220px; margin-right: 30px;">
    </td>
    <td>
-    <div> 
       <table>
         <tr><th>Pino do Display Oled </th><th>Pino do Arduino Mega</th></tr>
         <tr><td><b>3.3V</b></td><td><b>3.3V</b></td></tr>
@@ -83,7 +82,6 @@ O display é responsável por apresentar as informações gerais da cadastradas.
         <tr><td><b>SDA</b></td><td><b>Porta digital 20</b></td></tr>
         <tr><td><b>SCL</b></td><td><b>Porta digital 21</b></td></tr>
       </table>
-    </div>
    </td>
  </tr>
 </table>
