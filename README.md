@@ -18,6 +18,7 @@ Cada face do cubo interativo apresenta uma categoria específica de informaçõe
 
 | Componente       | Quantidade | Função |
 |------------------|------------|--------|
+| Arduino Mega     | 1          | Controla os sensores RFID, LEDs e botões, processando e exibindo informações sobre as árvores.        |
 | Módulo RC522     | 1          | Captura o UID das tags RFID. |
 | Tags RFID        | 10         | Cada UID está vinculado a informações de uma árvore. |
 | Display OLED     | 1          | Apresenta informações gerais sobre a árvore identificada. |
@@ -31,6 +32,11 @@ Cada face do cubo interativo apresenta uma categoria específica de informaçõe
 | Fita LED (9 segmentos)  | 1   | Indica a qualidade do ar no ambiente. |
 | Sensor ENS160     | 1         | Captura a qualidade do ar, CO₂ e compostos orgânicos voláteis (VOCs). |
 | Sensor AHT21      | 1         | Mede temperatura e umidade do ambiente. |
-| ESP32            | 1          | Envia dados de temperatura, umidade e qualidade do ar para um broker MQTT. |
+| ESP32            | 1          | Coleta dados dos sensores de temperatura e qualidade do ar e os envia para um broker MQTT. |
 
 **Observação: Os sensores ENS160 e AHT21 estão integrados em um único módulo.
+
+
+# Processo de Montagem 
+
+As faces do cubo foram cortadas utilizando uma máquina de corte automatizada, garantindo precisão nas dimensões e encaixes. Os componentes eletrônicos foram distribuídos de acordo com a funcionalidade de cada face e conectados ao Arduino Mega e ao ESP32 conforme necessário.
