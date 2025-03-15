@@ -46,6 +46,7 @@ As faces do cubo foram cortadas utilizando uma máquina de corte automatizada, g
 ### Conexão do Módulo RC522 (Leitor RFID) ao Arduino Mega  
 
 O módulo RC522 é responsável pela leitura das tags RFID que identificam as árvores cadastradas. Ele se comunica com o Arduino Mega por meio do protocolo SPI. Abaixo estão as conexões utilizadas:  
+<div align="center">
 <table>
   <tr>
     <td>
@@ -65,6 +66,7 @@ O módulo RC522 é responsável pela leitura das tags RFID que identificam as á
     </td>
   </tr>
 </table>
+</div>
 
 ### Conexão do DISPLAY OLED (SH1106 128x64) ao Arduino Mega  
 
@@ -118,9 +120,9 @@ Como vários componentes começaram a utilizar as mesmas portas do Arduino, foi 
    <td>
      <table>
         <tr><th>Porta</th><th>Cor</th></tr>
-        <tr><td><b>GND</b></td><td style="color:white; background:black;"><b>Branco</b></td></tr>
-        <tr><td><b>5V</b></td><td style="color:white; background:red;"><b>Vermelho</b></td></tr>
-        <tr><td><b>3.3V</b></td><td style="color:black; background:yellow;"><b>Amarelo</b></td></tr>
+        <tr><td><b>GND</b></td><td>⚪ Branco</td></tr>
+        <tr><td><b>5V</b></td><td>🔴 Vermelho</td></tr>
+        <tr><td><b>3.3V</b></td><td>🟡 Amarelo</td></tr>
       </table>
    </td>
  </tr>
