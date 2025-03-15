@@ -8,9 +8,9 @@
 | Display OLED     | 1          | Apresenta informações gerais sobre a árvore identificada. |
 | Fita LED (3 segmentos)  | 1   | Indica o porte da árvore (pequeno, médio, grande). |
 | Fita LED (10 segmentos) | 1   | Sinaliza se a árvore possui flor. |
-| Fita LED (12 segmentos) | 1   | Representa os meses de floração. |
+| Fita LED (12 segmentos) | 1   | Apresenta os meses de floração. |
 | Fita LED (1 segmento)  | 1   | Sinaliza se a árvore possui fruto. |
-| Fita LED (12 segmentos) | 1   | Representa os meses de frutificação. |
+| Fita LED (12 segmentos) | 1   | Apresenta os meses de frutificação. |
 | Botões            | 7         | Inicializam/desligam informações da face ou alternam os dados exibidos. |
 | Fita LED (9 segmentos)  | 1   | Indica a temperatura do ambiente. |
 | Fita LED (9 segmentos)  | 1   | Indica a qualidade do ar no ambiente. |
