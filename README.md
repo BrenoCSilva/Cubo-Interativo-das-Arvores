@@ -131,9 +131,23 @@ A imagem abaixo mostra a configuração do hardware, onde os componentes estão 
 
 A imagem abaixo mostra a configuração do hardware, onde os componentes estão interligados por meio de uma prothoboard, responsável por distribuir as tensões e conxeões corretamente.  
 
-
-
-
+<div align="center">
+<table>
+ <tr>
+   <td>
+      <img src="imagens/fitaled.jpeg" alt="Fita LED" width="400px">
+   </td>
+   <td>
+     <table>
+        <tr><th>ESP32</th><th>Fita LED</th></tr>
+        <tr><td><b>GND</b></td><td>GNG</td></tr>
+        <tr><td><b>5V</b></td><td>5V</td></tr>
+        <tr><td><b>Porta digital 34</b></td><td>conexão de dados</td></tr>
+      </table>
+   </td>
+ </tr>
+</table>
+</div>
 
 
 
