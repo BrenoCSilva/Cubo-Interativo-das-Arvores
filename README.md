@@ -167,7 +167,6 @@ A imagem abaixo mostra a configuração do hardware, onde os componentes estão 
    </td>
      <td>
      <table>
-        <tr><th>Conexão</th><th>Placa de fenolite</th></tr>
         <tr><td><b>GND Fita LED</b></td><td>Placa - Trilha 1</td></tr>
         <tr><td><b>Terminal 1 - GND Botão</b></td><td>Placa - trilha 1</td></tr>
         <tr><td><b>GND RC522</b></td><td>Placa - trilha 1</td></tr>
