@@ -139,7 +139,7 @@ A imagem abaixo mostra a configuração:
         <tr><th>ESP32</th><th>Fita LED</th></tr>
         <tr><td><b>GND</b></td><td>GNG</td></tr>
         <tr><td><b>5V</b></td><td>5V</td></tr>
-        <tr><td><b>Porta digital 34</b></td><td>conexão de dados</td></tr>
+        <tr><td><b>Porta digital</b></td><td>conexão de dados</td></tr>
       </table>
    </td>
  </tr>
