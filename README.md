@@ -238,7 +238,7 @@ O link abaixo é um pequeno vídeo onde explico o funcionamento das **Faces 1 (I
    </td>
    <td>
      <img src="imagens/corte-temp.jpeg" alt="Integracao 1" width="200px">
-      <p>FACE 3 - Temperatua e Qualidade do Ar.</p>
+      <p>face 3 - Temperatua e Qualidade do Ar.</p>
    </td>
  </tr>
 </table>
@@ -246,6 +246,7 @@ O link abaixo é um pequeno vídeo onde explico o funcionamento das **Faces 1 (I
  <tr>
    <td>
       <img src="imagens/teste.jpeg" alt="Integracao 1" width="200px">
+       <p>Integração da face 4 - Floração.</p>
    </td>
     <td>
      <img src="imagens/teste2.jpeg" alt="Integracao 1" width="200px">
