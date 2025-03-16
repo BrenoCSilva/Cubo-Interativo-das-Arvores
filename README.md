@@ -113,6 +113,9 @@ Como vários componentes começaram a utilizar as mesmas portas do Arduino, foi 
 <table>
  <tr>
    <td>
+      <img src="imagens/plaquinha.jpeg" alt="Distribuição de trilhas na placa de fenolite" width="400px">
+   </td>
+   <td>
       <img src="imagens/aranha1.jpeg" alt="Distribuição de trilhas na placa de fenolite" width="400px">
    </td>
    <td>
