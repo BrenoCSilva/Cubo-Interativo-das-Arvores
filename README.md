@@ -238,6 +238,7 @@ O link abaixo é um pequeno vídeo onde explico o funcionamento das **Faces 1 (I
    </td>
    <td>
      <img src="imagens/corte-temp.jpeg" alt="Integracao 1" width="200px">
+      <p>FACE 3 - Temperatua e Qualidade do Ar.</p>
    </td>
  </tr>
 </table>
