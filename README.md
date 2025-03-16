@@ -200,5 +200,5 @@ Nesta configuração, integramos o **módulo RFID**, **Display OLED (SH1106 128x
 
 O link abaixo explica o funcionamento das **Faces 1 (Informações Gerais)** e **Face 5 (Frutificação)**, que estão integradas ao sistema.  
 
-👉 [Acesse aqui a explicação detalhada](https://www.youtube.com/shorts/Pyn25ikelZ8substituir)
+👉 [Acesse aqui a explicação detalhada](https://www.youtube.com/shorts/Pyn25ikelZ8)
 
