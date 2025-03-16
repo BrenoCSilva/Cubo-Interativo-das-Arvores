@@ -235,7 +235,7 @@ O link abaixo é um pequeno vídeo onde explico o funcionamento das **Faces 1 (I
      <img src="imagens/testeLed2.jpeg" alt="Integracao 1" width="200px">
    </td>
     <td>
-     <img src="imagens/porte.png" alt="Integracao 1" width="200px">
+     <img src="imagens/leitura.png" alt="Integracao 1" width="200px">
      <p>Teste do raio de ação da leitura</p>
    </td>
    <td>
