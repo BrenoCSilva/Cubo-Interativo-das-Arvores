@@ -225,11 +225,6 @@ O link abaixo é um pequeno vídeo onde explico o funcionamento das **Faces 1 (I
 # Processo de Montagem II e testes 
 
 <div align="center">
-
-<div align="center">
- <img src="imagens/cubo.png" alt="Integracao 1" width="200px">
- </div>
-<div align="center">
   <table>
  <tr>
    <td>
@@ -283,7 +278,12 @@ O link abaixo é um pequeno vídeo onde explico o funcionamento das **Faces 1 (I
    </td>
  </tr>
 </table>
+</div>
 
+<div align="center">
+ <img src="imagens/mesaAberta.png" alt="Integracao 1" width="200px">
+ </div>
+<div align="center">
   <table>
  <tr>
    <td>
