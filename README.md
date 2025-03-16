@@ -164,7 +164,7 @@ O sistema funciona da seguinte forma:
 <table>
  <tr>
    <td>
-      <img src="imagens/face1.jpeg" alt="Integracao 1" width="350px">
+      <img src="imagens/FACE1e5-Integrada.jpeg" alt="Integracao 1" width="350px">
    </td>
    <td>
      <table>
@@ -200,5 +200,5 @@ Nesta configuração, integramos o **módulo RFID**, **Display OLED (SH1106 128x
 
 O link abaixo explica o funcionamento das **Faces 1 (Informações Gerais)** e **Face 5 (Frutificação)**, que estão integradas ao sistema.  
 
-👉 [Acesse aqui a explicação detalhada](#) *(substituir pelo link correto)*  
+👉 [Acesse aqui a explicação detalhada](#) *(https://www.youtube.com/shorts/Pyn25ikelZ8substituir)*  
 
