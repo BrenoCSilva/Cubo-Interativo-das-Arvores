@@ -40,9 +40,20 @@ Cada face do cubo interativo apresenta uma categoria específica de informaçõe
 
 # Processo de Montagem 
 
-As [faces do cubo](https://github.com/BrenoCSilva/Cubo-Interativo/tree/main/Cortes%20MDF)foram cortadas utilizando uma máquina de corte automatizada, garantindo precisão nas dimensões e encaixes. Os componentes eletrônicos foram distribuídos de acordo com a funcionalidade de cada face e conectados ao Arduino Mega e ao ESP32 conforme necessário.
+As faces do cubo foram cortadas utilizando uma máquina de corte automatizada, garantindo precisão nas dimensões e encaixes. Os componentes eletrônicos foram distribuídos de acordo com a funcionalidade de cada face e conectados ao Arduino Mega e ao ESP32 conforme necessário.
 
-
+<div align="center">
+<table>
+ <tr>
+   <td>
+      <img src="imagens/arestas.jpeg" alt="Integracao 1" width="400px">
+   </td>
+    <td>
+     <img src="imagens/corte.jpeg" alt="Integracao 1" width="400px">
+   </td>
+ </tr>
+</table>
+</div>
 
 ### Conexão do Módulo RC522 (Leitor RFID) ao Arduino Mega  
 
@@ -165,7 +176,7 @@ O sistema funciona da seguinte forma:
 <table>
  <tr>
    <td>
-      <img src="imagens/FACE1e5-Integrada.jpeg" alt="Integracao 1" width="350px">
+      <img src="imagens/FACE1e5-Integrada.jpeg" alt="Integracao 1" width="400px">
    </td>
    <td>
      <table>
