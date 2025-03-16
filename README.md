@@ -146,10 +146,10 @@ A imagem abaixo mostra a configuração:
 </table>
 </div>
 
-### Integração: Fita LED, Módulo RFID e Display OLED  
+### Integração: Fita LED e Módulo RFID
 
- Integração entre o **módulo RFID** , **display OLED (SH1106 128x64)**, **Fita LED** e **botões de interação**, conectados ao **Arduino Mega**.  
-A imagem abaixo mostra a configuração do hardware, onde os componentes estão interligados por meio de uma prothoboard, responsável por distribuir as tensões e conxeões corretamente. Nesse momento, as Faces 1 (Informações Gerais) e Face 5 (Frutificação) estão integradas.
+ Integração entre o **módulo RFID** ,  **Fita LED** e **botão de interação**, conectados ao **Arduino Mega**.  
+A imagem abaixo mostra a configuração do hardware, onde os componentes estão interligados por meio de uma placa de fenolite, responsável por distribuir as tensões e conxeões corretamente. Nesse momento,ao aproximar uma tag do módulo o botão permite a interação. Ligando o Led verde, caso a árvore vinculada a uid contenha fruto ou vermelha caso o oposto. A outra fita led acende em amarelo os meses de frutificação(na imagem foi configurado os 12 meses).
 
 <div align="center">
 <table>
@@ -182,4 +182,88 @@ A imagem abaixo mostra a configuração do hardware, onde os componentes estão 
 </table>
 </div>
 
+
+
+### Integração: Fita LED, Módulo RFID e Display OLED  
+
+ Integração entre o **módulo RFID** , **display OLED (SH1106 128x64)**, **Fita LED** e **botões de interação**, conectados ao **Arduino Mega**.  
+O link abaixo explica o funcionamento das Faces 1 (Informações Gerais) e Face 5 (Frutificação) estão integradas.
+
+
+# Conexão da Fita LED  
+
+A imagem abaixo ilustra a configuração da conexão:  
+
+<div align="center">
+<table>
+ <tr>
+   <td>
+      <img src="imagens/fitaled.jpeg" alt="Fita LED" width="350px">
+   </td>
+   <td>
+     <table>
+        <tr><th>ESP32</th><th>Fita LED</th></tr>
+        <tr><td><b>GND</b></td><td>GND</td></tr>
+        <tr><td><b>5V</b></td><td>5V</td></tr>
+        <tr><td><b>Porta digital</b></td><td>Conexão de dados</td></tr>
+      </table>
+   </td>
+ </tr>
+</table>
+</div>
+
+---
+
+## Integração: Fita LED e Módulo RFID  
+
+A integração entre o **módulo RFID**, **Fita LED** e **botão de interação** é realizada utilizando um **Arduino Mega**.  
+
+A imagem abaixo apresenta a configuração do hardware, onde os componentes estão conectados por meio de uma **placa de fenolite**, responsável por distribuir corretamente as tensões e conexões.  
+
+O sistema funciona da seguinte forma:  
+- Ao aproximar uma **tag RFID** do módulo, o botão permite a interação.  
+- O LED verde acende caso a árvore vinculada ao UID contenha frutos, e vermelho caso contrário.  
+- Outra Fita LED indica, em **amarelo**, os meses de frutificação. Na imagem, a configuração abrange os **12 meses do ano**.  
+
+<div align="center">
+<table>
+ <tr>
+   <td>
+      <img src="imagens/fitaled.jpeg" alt="Fita LED" width="350px">
+   </td>
+   <td>
+     <table>
+        <tr><th>Arduino Mega</th><th>Placa de Fenolite</th></tr>
+        <tr><td><b>GND</b></td><td>Trilha 1</td></tr>
+        <tr><td><b>5V</b></td><td>Trilha 2</td></tr>
+        <tr><td><b>3.3V</b></td><td>Trilha 3</td></tr>
+      </table>
+   </td>
+     <td>
+     <table>
+        <tr><th>Componente</th><th>Conexão</th></tr>
+        <tr><td><b>GND - Fita LED</b></td><td>Placa - Trilha 1</td></tr>
+        <tr><td><b>Terminal 1 - GND Botão</b></td><td>Placa - Trilha 1</td></tr>
+        <tr><td><b>GND - RC522</b></td><td>Placa - Trilha 1</td></tr>
+        <tr><td><b>GND - Display</b></td><td>Placa - Trilha 1</td></tr>
+        <tr><td><b>5V - Fita LED</b></td><td>Placa - Trilha 2</td></tr>
+        <tr><td><b>3.3V - RC522</b></td><td>Placa - Trilha 3</td></tr>
+        <tr><td><b>3.3V - Display</b></td><td>Placa - Trilha 3</td></tr>
+        <tr><td><b>Terminal 2 - Botão</b></td><td>Porta digital</td></tr>
+        <tr><td><b>Demais conexões do Display e RC522</b></td><td>Se repetem</td></tr>
+      </table>
+   </td>
+ </tr>
+</table>
+</div>
+
+---
+
+## Integração: Fita LED, Módulo RFID e Display OLED  
+
+Nesta configuração, integramos o **módulo RFID**, **Display OLED (SH1106 128x64)**, **Fita LED** e **botões de interação**, todos conectados ao **Arduino Mega**.  
+
+O link abaixo explica o funcionamento das **Faces 1 (Informações Gerais)** e **Face 5 (Frutificação)**, que estão integradas ao sistema.  
+
+👉 [Acesse aqui a explicação detalhada](#) *(substituir pelo link correto)*  
 
