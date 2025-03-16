@@ -176,7 +176,7 @@ A imagem abaixo mostra a configuração do hardware, onde os componentes estão 
         <tr><td><b>3.3 RC522</b></td><td>trilha 3</td></tr>
         <tr><td><b>3.3 DISPLAY</b></td><td>trilha 3</td></tr>
         <tr><td><b>Terminal 2 - Botão</b></td><td>Porta digital</td></tr>
-       <tr>**Conexões do Display e RC522 restante se repetem**</tr>
+       <tr><td>**Conexões do Display e RC522 restante se repetem**</td></tr>
       </table>
    </td>
  </tr>
