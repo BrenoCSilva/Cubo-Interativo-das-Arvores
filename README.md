@@ -293,10 +293,10 @@ O link abaixo é um pequeno vídeo onde explico o funcionamento das **Faces 1 (I
      <img src="imagens/cuboConexao.jpeg" alt="Integracao 1" width="200px">
    </td>
     <td>
-     <img src="imagens/cuboConexao2.jpeg" alt="Integracao 1" width="200px">
+     <img src="imagens/cubo2.jpeg" alt="Integracao 1" width="200px">
    </td>
    <td>
-     <img src="imagens/porte2.jpeg" alt="Integracao 1" width="200px">
+     <img src="imagens/cubo3.jpeg" alt="Integracao 1" width="200px">
    </td>
  </tr>
 </table>
