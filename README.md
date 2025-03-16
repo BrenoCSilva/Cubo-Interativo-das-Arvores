@@ -241,6 +241,22 @@ O link abaixo é um pequeno vídeo onde explico o funcionamento das **Faces 1 (I
    </td>
  </tr>
 </table>
+ <table>
+ <tr>
+   <td>
+      <img src="imagens/teste.jpeg" alt="Integracao 1" width="200px">
+   </td>
+    <td>
+     <img src="imagens/teste2.jpeg" alt="Integracao 1" width="200px">
+   </td>
+    <td>
+     <img src="imagens/teste1.jpeg" alt="Integracao 1" width="200px">
+   </td>
+   <td>
+     <img src="imagens/corte-temp.jpeg" alt="Integracao 1" width="200px">
+   </td>
+ </tr>
+</table>
 </div>
 
 
