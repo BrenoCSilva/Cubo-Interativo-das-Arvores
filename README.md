@@ -125,71 +125,6 @@ A imagem abaixo mostra a configuração do hardware, onde os componentes estão 
 > **Mensagem no Display:** "Aproxime-se de uma árvore...!"  
 > Essa mensagem é um indicativo de que o sistema está aguardando um cartão RFID para ativar uma ação específica.
 
-### Como é feita a conexão da Fita led?    
-
-A imagem abaixo mostra a configuração:
-<div align="center">
-<table>
- <tr>
-   <td>
-      <img src="imagens/fitaled.jpeg" alt="Fita LED" width="350px">
-   </td>
-   <td>
-     <table>
-        <tr><th>ESP32</th><th>Fita LED</th></tr>
-        <tr><td><b>GND</b></td><td>GNG</td></tr>
-        <tr><td><b>5V</b></td><td>5V</td></tr>
-        <tr><td><b>Porta digital</b></td><td>conexão de dados</td></tr>
-      </table>
-   </td>
- </tr>
-</table>
-</div>
-
-### Integração: Fita LED e Módulo RFID
-
- Integração entre o **módulo RFID** ,  **Fita LED** e **botão de interação**, conectados ao **Arduino Mega**.  
-A imagem abaixo mostra a configuração do hardware, onde os componentes estão interligados por meio de uma placa de fenolite, responsável por distribuir as tensões e conxeões corretamente. Nesse momento,ao aproximar uma tag do módulo o botão permite a interação. Ligando o Led verde, caso a árvore vinculada a uid contenha fruto ou vermelha caso o oposto. A outra fita led acende em amarelo os meses de frutificação(na imagem foi configurado os 12 meses).
-
-<div align="center">
-<table>
- <tr>
-   <td>
-      <img src="imagens/fitaled.jpeg" alt="Fita LED" width="350px">
-   </td>
-   <td>
-     <table>
-        <tr><th>Arduino Mega</th><th>Placa de fenolite</th></tr>
-        <tr><td><b>GND</b></td><td>Trilha 1</td></tr>
-        <tr><td><b>5V</b></td><td>trilha 2</td></tr>
-        <tr><td><b>3.3V</b></td><td>trilha 3</td></tr>
-      </table>
-   </td>
-     <td>
-     <table>
-        <tr><td><b>GND Fita LED</b></td><td>Placa - Trilha 1</td></tr>
-        <tr><td><b>Terminal 1 - GND Botão</b></td><td>Placa - trilha 1</td></tr>
-        <tr><td><b>GND RC522</b></td><td>Placa - trilha 1</td></tr>
-        <tr><td><b>GND DISPLAY</b></td><td>Placa - trilha 1</td></tr>
-        <tr><td><b>5V Fita LED</b></td><td>Placa - Trilha 2</td></tr>
-        <tr><td><b>3.3 RC522</b></td><td>Placa -trilha 3</td></tr>
-        <tr><td><b>3.3 DISPLAY</b></td><td> Placa -trilha 3</td></tr>
-        <tr><td><b>Terminal 2 - Botão</b></td><td>Porta digital</td></tr>
-       <tr><td>O restante das conexões - Display e RC522</td><td> Se repetem</td></tr>
-      </table>
-   </td>
- </tr>
-</table>
-</div>
-
-
-
-### Integração: Fita LED, Módulo RFID e Display OLED  
-
- Integração entre o **módulo RFID** , **display OLED (SH1106 128x64)**, **Fita LED** e **botões de interação**, conectados ao **Arduino Mega**.  
-O link abaixo explica o funcionamento das Faces 1 (Informações Gerais) e Face 5 (Frutificação) estão integradas.
-
-
 # Conexão da Fita LED  
 
 A imagem abaixo ilustra a configuração da conexão:  
@@ -229,7 +164,7 @@ O sistema funciona da seguinte forma:
 <table>
  <tr>
    <td>
-      <img src="imagens/fitaled.jpeg" alt="Fita LED" width="350px">
+      <img src="imagens/face1.jpeg" alt="Integracao 1" width="350px">
    </td>
    <td>
      <table>
