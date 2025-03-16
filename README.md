@@ -33,6 +33,7 @@ Cada face do cubo interativo apresenta uma categoria específica de informaçõe
 | Sensor AHT21      | 1         | Mede temperatura e umidade do ambiente. |
 | Arduino Mega     | 1          | Controla os sensores RFID, LEDs e botões, processando e exibindo informações sobre as árvores.        |
 | ESP32            | 1          | Coleta dados dos sensores de temperatura e qualidade do ar e os envia para um broker MQTT. |
+| PowerBank            | 1          | Alimentar o circuito e componentes. |
 
 **Observação**: Os sensores ENS160 e AHT21 estão integrados em um único módulo.
 
