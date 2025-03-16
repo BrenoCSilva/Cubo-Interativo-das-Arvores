@@ -71,6 +71,7 @@ O módulo RC522 é responsável pela leitura das tags RFID que identificam as á
 ### Conexão do DISPLAY OLED (SH1106 128x64) ao Arduino Mega  
 
 O display é responsável por apresentar as informações gerais da cadastradas. Como nome, origem, bioma e copa. Ele se comunica com o Arduino Mega por meio do protocolo I2C. Abaixo estão as conexões utilizadas:  
+<div align="center">
  <table>
  <tr>
    <td>
@@ -87,6 +88,7 @@ O display é responsável por apresentar as informações gerais da cadastradas.
    </td>
  </tr>
 </table>
+</div>
 
 ### Distribuição de Tensão e Terra  
 
@@ -200,5 +202,5 @@ Nesta configuração, integramos o **módulo RFID**, **Display OLED (SH1106 128x
 
 O link abaixo explica o funcionamento das **Faces 1 (Informações Gerais)** e **Face 5 (Frutificação)**, que estão integradas ao sistema.  
 
-👉 [Acesse aqui a explicação detalhada](#) *(https://www.youtube.com/shorts/Pyn25ikelZ8substituir)*  
+👉 [Acesse aqui a explicação detalhada](https://www.youtube.com/shorts/Pyn25ikelZ8substituir)
 
