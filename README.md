@@ -125,17 +125,14 @@ A imagem abaixo mostra a configuração do hardware, onde os componentes estão 
 > **Mensagem no Display:** "Aproxime-se de uma árvore...!"  
 > Essa mensagem é um indicativo de que o sistema está aguardando um cartão RFID para ativar uma ação específica.
 
-### Integração: Fita LED, Módulo RFID e Display OLED  
+### Como é feita a conexão da Fita led?    
 
- Integração entre o **módulo RFID** e o **display OLED (SH1106 128x64)**, conectados ao **Arduino Mega**. O display foi configurado para exibir mensagens conforme a interação com o RFID.  
-
-A imagem abaixo mostra a configuração do hardware, onde os componentes estão interligados por meio de uma prothoboard, responsável por distribuir as tensões e conxeões corretamente.  
-
+A imagem abaixo mostra a configuração:
 <div align="center">
 <table>
  <tr>
    <td>
-      <img src="imagens/fitaled.jpeg" alt="Fita LED" width="400px">
+      <img src="imagens/fitaled.jpeg" alt="Fita LED" width="350px">
    </td>
    <td>
      <table>
@@ -148,6 +145,12 @@ A imagem abaixo mostra a configuração do hardware, onde os componentes estão 
  </tr>
 </table>
 </div>
+
+### Integração: Fita LED, Módulo RFID e Display OLED  
+
+ Integração entre o **módulo RFID** e o **display OLED (SH1106 128x64)**, conectados ao **Arduino Mega**. O display foi configurado para exibir mensagens conforme a interação com o RFID.  
+
+A imagem abaixo mostra a configuração do hardware, onde os componentes estão interligados por meio de uma prothoboard, responsável por distribuir as tensões e conxeões corretamente.  
 
 
 
