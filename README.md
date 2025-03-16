@@ -46,10 +46,13 @@ As faces do cubo foram cortadas utilizando uma máquina de corte automatizada, g
 <table>
  <tr>
    <td>
-      <img src="imagens/arestas.jpeg" alt="Integracao 1" width="400px">
+      <img src="imagens/arestas.jpeg" alt="Integracao 1" width="2000px">
    </td>
     <td>
      <img src="imagens/corte.jpeg" alt="Integracao 1" width="400px">
+   </td>
+    <td>
+     <img src="imagens/corte2.jpeg" alt="Integracao 1" width="200px">
    </td>
  </tr>
 </table>
