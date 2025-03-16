@@ -216,7 +216,31 @@ O sistema funciona da seguinte forma:
 
 Integração **módulo RFID**, **Display OLED (SH1106 128x64)**, **Fita LED** e **botões de interação**, todos conectados ao **Arduino Mega**.  
 
-O link abaixo explica o funcionamento das **Faces 1 (Informações Gerais)** e **Face 5 (Frutificação)**, que estão integradas ao sistema.  
+O link abaixo é um pequeno vídeo onde explico o funcionamento das **Faces 1 (Informações Gerais)** e **Face 5 (Frutificação)**, que estão integradas ao sistema.  
 
 👉 [Acesse aqui a explicação detalhada](https://www.youtube.com/shorts/Pyn25ikelZ8)
+
+
+
+# Processo de Montagem II e testes 
+
+<div align="center">
+<table>
+ <tr>
+   <td>
+      <img src="imagens/fitaLED1.jpeg" alt="Integracao 1" width="200px">
+   </td>
+    <td>
+     <img src="imagens/fitaLED2.jpeg" alt="Integracao 1" width="200px">
+   </td>
+    <td>
+     <img src="imagens/teste1.jpeg" alt="Integracao 1" width="200px">
+   </td>
+   <td>
+     <img src="imagens/corte-temp.jpeg" alt="Integracao 1" width="200px">
+   </td>
+ </tr>
+</table>
+</div>
+
 
