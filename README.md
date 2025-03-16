@@ -236,7 +236,7 @@ O link abaixo é um pequeno vídeo onde explico o funcionamento das **Faces 1 (I
    </td>
     <td>
      <img src="imagens/porte.png" alt="Integracao 1" width="200px">
-     <p>Teste do raio de ação da leitura/p>
+     <p>Teste do raio de ação da leitura</p>
    </td>
    <td>
      <img src="imagens/corte3.jpeg" alt="Integracao 1" width="200px">
