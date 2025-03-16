@@ -252,11 +252,11 @@ O link abaixo é um pequeno vídeo onde explico o funcionamento das **Faces 1 (I
      <img src="imagens/teste2.jpeg" alt="Integracao 1" width="200px">
    </td>
     <td>
-     <img src="imagens/porte.jpeg" alt="Integracao 1" width="200px">
+     <img src="imagens/porte.png" alt="Integracao 1" width="200px">
      <p>face 2 - Porte</p>
    </td>
    <td>
-     <img src="imagens/corte-temp.jpeg" alt="Integracao 1" width="200px">
+     <img src="imagens/corte3.jpeg" alt="Integracao 1" width="200px">
    </td>
  </tr>
 </table>
