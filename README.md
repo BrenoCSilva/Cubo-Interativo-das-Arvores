@@ -221,6 +221,15 @@ O link abaixo é um pequeno vídeo onde explico o funcionamento das **Faces 1 (I
 👉 [Acesse aqui a explicação detalhada](https://www.youtube.com/shorts/Pyn25ikelZ8)
 
 
+Face 3 - Temperatura e Qualidade do Ar
+
+A imagem abaixo mostra a configuração do hardware, onde duas fitas LED de 9 segmentos (representadas por apenas 1 segmento na imagem) estão conectadas ao ESP32, juntamente com os sensores ENS160 e AHT21.
+
+Observação: Na imagem, foi utilizado um DHT21, porém as conexões são as mesmas utilizadas no protótipo com o AHT21.
+
+<div align="center"> 
+ <img src="imagens/esp32.jpeg" alt="Integração 1" width="200px"> 
+</div> 
 
 # Processo de Montagem II e testes 
 
