@@ -148,10 +148,33 @@ A imagem abaixo mostra a configuração:
 
 ### Integração: Fita LED, Módulo RFID e Display OLED  
 
- Integração entre o **módulo RFID** e o **display OLED (SH1106 128x64)**, conectados ao **Arduino Mega**. O display foi configurado para exibir mensagens conforme a interação com o RFID.  
+ Integração entre o **módulo RFID** , **display OLED (SH1106 128x64)**, **Fita LED** e **botões de interação**, conectados ao **Arduino Mega**.  
+A imagem abaixo mostra a configuração do hardware, onde os componentes estão interligados por meio de uma prothoboard, responsável por distribuir as tensões e conxeões corretamente. Nesse momento, as Faces 1 (Informações Gerais) e Face 5 (Frutificação) estão integradas.
 
-A imagem abaixo mostra a configuração do hardware, onde os componentes estão interligados por meio de uma prothoboard, responsável por distribuir as tensões e conxeões corretamente.  
-
-
+<div align="center">
+<table>
+ <tr>
+   <td>
+      <img src="imagens/fitaled.jpeg" alt="Fita LED" width="350px">
+   </td>
+   <td>
+     <table>
+        <tr><th>Arduino Mega</th><th>Placa de fenolite</th></tr>
+        <tr><td><b>GND</b></td><td>Trilha 1</td></tr>
+        <tr><td><b>5V</b></td><td>trilha 2</td></tr>
+        <tr><td><b>3.3V</b></td><td>trilha 3</td></tr>
+      </table>
+   </td>
+     <td>
+     <table>
+        <tr><th>Fita LED</th><th>Placa de fenolite</th></tr>
+        <tr><td><b>GND</b></td><td>Trilha 1</td></tr>
+        <tr><td><b>5V</b></td><td>trilha 2</td></tr>
+        <tr><td><b>3.3V</b></td><td>trilha 3</td></tr>
+      </table>
+   </td>
+ </tr>
+</table>
+</div>
 
 
