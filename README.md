@@ -278,6 +278,24 @@ O link abaixo é um pequeno vídeo onde explico o funcionamento das **Faces 1 (I
    </td>
  </tr>
 </table>
+
+   <table>
+ <tr>
+   <td>
+      <img src="imagens/cubo.jpeg" alt="Integracao 1" width="200px">
+   </td>
+    <td>
+     <img src="imagens/cuboConexao.jpeg" alt="Integracao 1" width="200px">
+   </td>
+    <td>
+     <img src="imagens/cuboConexao2.jpeg" alt="Integracao 1" width="200px">
+     <p>Testes iniciais do raio de ação de leitura do Módulo e Tag rfid</p>
+   </td>
+   <td>
+     <img src="imagens/corte3.jpeg" alt="Integracao 1" width="200px">
+   </td>
+ </tr>
+</table>
 </div>
 
 
