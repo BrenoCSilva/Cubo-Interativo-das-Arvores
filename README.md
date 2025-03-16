@@ -167,10 +167,16 @@ A imagem abaixo mostra a configuração do hardware, onde os componentes estão 
    </td>
      <td>
      <table>
-        <tr><th>Fita LED</th><th>Placa de fenolite</th></tr>
-        <tr><td><b>GND</b></td><td>Trilha 1</td></tr>
-        <tr><td><b>5V</b></td><td>trilha 2</td></tr>
-        <tr><td><b>3.3V</b></td><td>trilha 3</td></tr>
+        <tr><th>Conexão</th><th>Placa de fenolite</th></tr>
+        <tr><td><b>GND Fita LED</b></td><td>Trilha 1</td></tr>
+        <tr><td><b>Terminal 1 - GND Botão</b></td><td>trilha 1</td></tr>
+        <tr><td><b>GND RC522</b></td><td>trilha 1</td></tr>
+        <tr><td><b>GND DISPLAY</b></td><td>trilha 1</td></tr>
+        <tr><td><b>5V Fita LED</b></td><td>Trilha 2</td></tr>
+        <tr><td><b>3.3 RC522</b></td><td>trilha 3</td></tr>
+        <tr><td><b>3.3 DISPLAY</b></td><td>trilha 3</td></tr>
+        <tr><td><b>Terminal 2 - Botão</b></td><td>Porta digital</td></tr>
+       <tr>**Conexões do Display e RC522 restante se repetem**</tr>
       </table>
    </td>
  </tr>
