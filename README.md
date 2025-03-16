@@ -40,7 +40,7 @@ Cada face do cubo interativo apresenta uma categoria específica de informaçõe
 
 # Processo de Montagem 
 
-As faces do cubo foram cortadas utilizando uma máquina de corte automatizada, garantindo precisão nas dimensões e encaixes. Os componentes eletrônicos foram distribuídos de acordo com a funcionalidade de cada face e conectados ao Arduino Mega e ao ESP32 conforme necessário.
+As [faces do cubo](https://github.com/BrenoCSilva/Cubo-Interativo/tree/main/Cortes%20MDF)foram cortadas utilizando uma máquina de corte automatizada, garantindo precisão nas dimensões e encaixes. Os componentes eletrônicos foram distribuídos de acordo com a funcionalidade de cada face e conectados ao Arduino Mega e ao ESP32 conforme necessário.
 
 
 
