@@ -228,10 +228,10 @@ O link abaixo é um pequeno vídeo onde explico o funcionamento das **Faces 1 (I
 <table>
  <tr>
    <td>
-      <img src="imagens/fitaLED1.jpeg" alt="Integracao 1" width="200px">
+      <img src="imagens/FitaLED1.jpeg" alt="Integracao 1" width="200px">
    </td>
     <td>
-     <img src="imagens/fitaLED2.jpeg" alt="Integracao 1" width="200px">
+     <img src="imagens/FitaLED2.jpeg" alt="Integracao 1" width="200px">
    </td>
     <td>
      <img src="imagens/teste1.jpeg" alt="Integracao 1" width="200px">
