@@ -260,6 +260,24 @@ O link abaixo é um pequeno vídeo onde explico o funcionamento das **Faces 1 (I
    </td>
  </tr>
 </table>
+  <table>
+ <tr>
+   <td>
+      <img src="imagens/testeLed1.jpeg" alt="Integracao 1" width="200px">
+       <p>Testes iniciais com led simples. Foi descartado pela baixa iluminação</p>
+   </td>
+    <td>
+     <img src="imagens/testeLed1.jpeg" alt="Integracao 1" width="200px">
+   </td>
+    <td>
+     <img src="imagens/porte.png" alt="Integracao 1" width="200px">
+     <p>Testes iniciais do raio de ação de leitura do Módulo e Tag rfid</p>
+   </td>
+   <td>
+     <img src="imagens/corte3.jpeg" alt="Integracao 1" width="200px">
+   </td>
+ </tr>
+</table>
 </div>
 
 
