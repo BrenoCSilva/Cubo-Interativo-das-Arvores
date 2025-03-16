@@ -225,6 +225,29 @@ O link abaixo é um pequeno vídeo onde explico o funcionamento das **Faces 1 (I
 # Processo de Montagem II e testes 
 
 <div align="center">
+
+<div align="center">
+ <img src="imagens/cubo.png" alt="Integracao 1" width="200px">
+ </div>
+<div align="center">
+  <table>
+ <tr>
+   <td>
+      <img src="imagens/testeLed1.jpeg" alt="Integracao 1" width="200px">
+       <p>Testes iniciais com led simples. Foi descartado pela baixa iluminação</p>
+   </td>
+    <td>
+     <img src="imagens/testeLed2.jpeg" alt="Integracao 1" width="200px">
+   </td>
+    <td>
+     <img src="imagens/porte.png" alt="Integracao 1" width="200px">
+     <p>Testes iniciais do raio de ação de leitura do Módulo e Tag rfid</p>
+   </td>
+   <td>
+     <img src="imagens/corte3.jpeg" alt="Integracao 1" width="200px">
+   </td>
+ </tr>
+</table>
 <table>
  <tr>
    <td>
@@ -260,36 +283,17 @@ O link abaixo é um pequeno vídeo onde explico o funcionamento das **Faces 1 (I
    </td>
  </tr>
 </table>
+
   <table>
  <tr>
    <td>
-      <img src="imagens/testeLed1.jpeg" alt="Integracao 1" width="200px">
-       <p>Testes iniciais com led simples. Foi descartado pela baixa iluminação</p>
-   </td>
-    <td>
-     <img src="imagens/testeLed2.jpeg" alt="Integracao 1" width="200px">
-   </td>
-    <td>
-     <img src="imagens/porte.png" alt="Integracao 1" width="200px">
-     <p>Testes iniciais do raio de ação de leitura do Módulo e Tag rfid</p>
-   </td>
-   <td>
-     <img src="imagens/corte3.jpeg" alt="Integracao 1" width="200px">
-   </td>
- </tr>
-</table>
-
-   <table>
- <tr>
-   <td>
-      <img src="imagens/cubo.jpeg" alt="Integracao 1" width="200px">
+      <img src="imagens/cubo.png" alt="Integracao 1" width="200px">
    </td>
     <td>
      <img src="imagens/cuboConexao.jpeg" alt="Integracao 1" width="200px">
    </td>
     <td>
      <img src="imagens/cuboConexao2.jpeg" alt="Integracao 1" width="200px">
-     <p>Testes iniciais do raio de ação de leitura do Módulo e Tag rfid</p>
    </td>
    <td>
      <img src="imagens/corte3.jpeg" alt="Integracao 1" width="200px">
