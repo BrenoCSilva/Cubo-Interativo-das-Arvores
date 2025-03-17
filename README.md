@@ -179,6 +179,9 @@ O sistema funciona da seguinte forma:
 - Outra Fita LED indica, em **amarelo**, os meses de frutificação. Na imagem, a configuração abrange os **12 meses do ano**.  
 
 <div align="center">
+ <td>
+      <img src="imagens/FACE1e5-Integrada.jpeg" alt="Integracao 1" width="300px">
+ </td>
 <table>
  <tr>
    <td>
