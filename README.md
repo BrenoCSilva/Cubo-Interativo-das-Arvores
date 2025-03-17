@@ -182,7 +182,7 @@ O sistema funciona da seguinte forma:
 <table>
  <tr>
    <td>
-      <img src="imagens/FACE1e5-Integrada.jpeg" alt="Integracao 1" width="400px">
+      <img src="imagens/FACE1e5-Integrada.jpeg" alt="Integracao 1" width="300px">
    </td>
    <td>
      <table>
