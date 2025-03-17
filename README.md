@@ -185,9 +185,6 @@ O sistema funciona da seguinte forma:
 <table>
  <tr>
    <td>
-      <img src="imagens/FACE1e5-Integrada.jpeg" alt="Integracao 1" width="300px">
-   </td>
-   <td>
      <table>
         <tr><th>Arduino Mega</th><th>Placa de Fenolite</th></tr>
         <tr><td><b>GND</b></td><td>Trilha 1</td></tr>
@@ -209,6 +206,9 @@ O sistema funciona da seguinte forma:
         <tr><td><b>Demais conexões do Display e RC522</b></td><td>Se repetem</td></tr>
       </table>
    </td>
+   <td>
+      <img src="imagens/FACE1e5-Integrada.jpeg" alt="Integracao 1" width="300px">
+ </td>
  </tr>
 </table>
 </div>
