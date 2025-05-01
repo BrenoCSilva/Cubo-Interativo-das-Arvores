@@ -129,7 +129,15 @@ Como vários componentes começaram a utilizar as mesmas portas do Arduino, foi 
  </tr>
 </table>
 </div>
+
 <div align="center">
+<table>
+ <tr>
+   <td>
+      <img src="imagens/AranhaCompleta.jpeg" alt=" placa de fenolite" width="400px">
+   </td>
+ </tr>
+<tr>
  <table border="1" cellspacing="0" cellpadding="5">
          <tr>
            <th>Porta</th>
@@ -152,7 +160,7 @@ Como vários componentes começaram a utilizar as mesmas portas do Arduino, foi 
            <td>Arduino, Display, RC522  </td>
          </tr>
   </table>
-</div>
+<tr>
 
 ### Integração: Módulo RFID e Display OLED  
 
