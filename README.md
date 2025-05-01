@@ -253,38 +253,46 @@ O link abaixo é um pequeno vídeo onde explico o funcionamento das **Faces 1 (I
 
 👉 [Acesse aqui a explicação detalhada](https://www.youtube.com/shorts/Pyn25ikelZ8)
 
+---
+
 ### Distribuição de Tensão e Terra Completa
 
 <div align="center">
-<table>
- <tr>
-      <img src="imagens/AranhaCompleta.jpeg" alt=" placa de fenolite completa" width="600px">
- </tr>
-<tr>
- <table border="1">
-         <tr>
-           <th>Porta</th>
-           <th>Cor</th>
-           <th>Uso</th>
-         </tr>
-         <tr>
-           <td><b>GND</b></td>
-           <td>⚪ Branco</td>
-           <td>Display, RC522, Arduino, button_F2, led_F2, button_F4. led_F4, led1_F4, led_mes_F4, button_F5, led1_F5, led_mes_F5, temperatura, qualidade_ar, button_F1, button_F2, button_F3, button_F4 </td>
-         </tr>
-         <tr>
-           <td><b>5V</b></td>
-           <td>🔴 Vermelho</td>
-           <td>Arduino, led_F2, led1_F4, led_mes_F4, led1_F5, led_mes_F5, temperatura, qualidade_ar</td>
-         </tr>
-         <tr>
-           <td><b>3.3V</b></td>
-           <td>🟡 Amarelo</td>
-           <td>Arduino, Display, RC522  </td>
-         </tr>
-  </table>
- </tr>
+
+<img src="imagens/AranhaCompleta.jpeg" alt="Placa de fenolite completa" width="600px">
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <th>Porta</th>
+    <th>Cor</th>
+    <th>Uso</th>
+  </tr>
+  <tr>
+    <td><b>GND</b></td>
+    <td>⚪ Branco</td>
+    <td>
+      Display, RC522, Arduino, button_F2, led_F2, button_F4, led_F4,<br>
+      led1_F4, led_mes_F4, button_F5, led1_F5, led_mes_F5,<br>
+      temperatura, qualidade_ar, button_F1, button_F2, button_F3, button_F4
+    </td>
+  </tr>
+  <tr>
+    <td><b>5V</b></td>
+    <td>🔴 Vermelho</td>
+    <td>
+      Arduino, led_F2, led1_F4, led_mes_F4,<br>
+      led1_F5, led_mes_F5, temperatura, qualidade_ar
+    </td>
+  </tr>
+  <tr>
+    <td><b>3.3V</b></td>
+    <td>🟡 Amarelo</td>
+    <td>Arduino, Display, RC522</td>
+  </tr>
+</table>
+
 </div>
+
 
 ## Face 3 - Temperatura e Qualidade do Ar
 
