@@ -134,11 +134,11 @@ Como vários componentes começaram a utilizar as mesmas portas do Arduino, foi 
 <table>
  <tr>
    <td>
-      <img src="imagens/AranhaCompleta.jpeg" alt=" placa de fenolite" width="400px">
+      <img src="imagens/AranhaCompleta.jpeg" alt=" placa de fenolite completa" width="600px">
    </td>
  </tr>
 <tr>
- <table border="1" cellspacing="0" cellpadding="5">
+ <table border="1">
          <tr>
            <th>Porta</th>
            <th>Cor</th>
