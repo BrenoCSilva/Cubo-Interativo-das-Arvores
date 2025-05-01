@@ -158,7 +158,8 @@ Como vários componentes começaram a utilizar as mesmas portas do Arduino, foi 
            <td>Arduino, Display, RC522  </td>
          </tr>
   </table>
-<tr>
+ </tr>
+</div>
 
 ### Integração: Módulo RFID e Display OLED  
 
