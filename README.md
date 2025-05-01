@@ -130,39 +130,6 @@ Como vários componentes começaram a utilizar as mesmas portas do Arduino, foi 
 </table>
 </div>
 
-### Distribuição de Tensão e Terra Completa
-
-<div align="center">
-<table>
- <tr>
-      <img src="imagens/AranhaCompleta.jpeg" alt=" placa de fenolite completa" width="600px">
- </tr>
-<tr>
- <table border="1">
-         <tr>
-           <th>Porta</th>
-           <th>Cor</th>
-           <th>Uso</th>
-         </tr>
-         <tr>
-           <td><b>GND</b></td>
-           <td>⚪ Branco</td>
-           <td>Display, RC522, Arduino, button_F2, led_F2, button_F4. led_F4, led1_F4, led_mes_F4, button_F5, led1_F5, led_mes_F5, temperatura, qualidade_ar, button_F1, button_F2, button_F3, button_F4 </td>
-         </tr>
-         <tr>
-           <td><b>5V</b></td>
-           <td>🔴 Vermelho</td>
-           <td>Arduino, led_F2, led1_F4, led_mes_F4, led1_F5, led_mes_F5, temperatura, qualidade_ar</td>
-         </tr>
-         <tr>
-           <td><b>3.3V</b></td>
-           <td>🟡 Amarelo</td>
-           <td>Arduino, Display, RC522  </td>
-         </tr>
-  </table>
- </tr>
-</div>
-
 ### Integração: Módulo RFID e Display OLED  
 
  Integração entre o **módulo RFID** e o **display OLED (SH1106 128x64)**, conectados ao **Arduino Mega**. O display foi configurado para exibir mensagens conforme a interação com o RFID.  
@@ -255,7 +222,7 @@ O link abaixo é um pequeno vídeo onde explico o funcionamento das **Faces 1 (I
 
 ---
 
-### Distribuição de Tensão e Terra Completa
+## Distribuição de Tensão e Terra Completa
 
 <div align="center">
 
@@ -293,7 +260,7 @@ O link abaixo é um pequeno vídeo onde explico o funcionamento das **Faces 1 (I
 
 </div>
 
-
+---
 ## Face 3 - Temperatura e Qualidade do Ar
 
 A imagem abaixo mostra a configuração do hardware, onde duas fitas LED de 9 segmentos (representadas por apenas 1 segmento na imagem) estão conectadas ao ESP32, juntamente com os sensores ENS160 e AHT21.
