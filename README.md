@@ -130,6 +130,29 @@ Como vários componentes começaram a utilizar as mesmas portas do Arduino, foi 
 </table>
 </div>
 
+<table border="1" cellspacing="0" cellpadding="5">
+        <tr>
+          <th>Porta</th>
+          <th>Cor</th>
+          <th>Uso</th>
+        </tr>
+        <tr>
+          <td><b>GND</b></td>
+          <td>⚪ Branco</td>
+          <td>Sensor Ultrassônico, Módulo Bluetooth</td>
+        </tr>
+        <tr>
+          <td><b>5V</b></td>
+          <td>🔴 Vermelho</td>
+          <td>Motor Driver, Display LCD</td>
+        </tr>
+        <tr>
+          <td><b>3.3V</b></td>
+          <td>🟡 Amarelo</td>
+          <td>ESP32, Sensor de Temperatura</td>
+        </tr>
+      </table>
+
 ### Integração: Módulo RFID e Display OLED  
 
  Integração entre o **módulo RFID** e o **display OLED (SH1106 128x64)**, conectados ao **Arduino Mega**. O display foi configurado para exibir mensagens conforme a interação com o RFID.  
