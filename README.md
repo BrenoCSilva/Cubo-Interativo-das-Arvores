@@ -129,29 +129,30 @@ Como vários componentes começaram a utilizar as mesmas portas do Arduino, foi 
  </tr>
 </table>
 </div>
-
-<table border="1" cellspacing="0" cellpadding="5">
-        <tr>
-          <th>Porta</th>
-          <th>Cor</th>
-          <th>Uso</th>
-        </tr>
-        <tr>
-          <td><b>GND</b></td>
-          <td>⚪ Branco</td>
-          <td>Display, RC522, Arduino, button_F2, led_F2, button_F4. led_F4, led1_F4, led_mes_F4, button_F5, led1_F5, led_mes_F5, temperatura, qualidade_ar, button_F1, button_F2, button_F3, button_F4 </td>
-        </tr>
-        <tr>
-          <td><b>5V</b></td>
-          <td>🔴 Vermelho</td>
-          <td>Arduino, led_F2, led1_F4, led_mes_F4, led1_F5, led_mes_F5, temperatura, qualidade_ar</td>
-        </tr>
-        <tr>
-          <td><b>3.3V</b></td>
-          <td>🟡 Amarelo</td>
-          <td>Arduino, Display, RC522  </td>
-        </tr>
-      </table>
+<div align="center">
+ <table border="1" cellspacing="0" cellpadding="5">
+         <tr>
+           <th>Porta</th>
+           <th>Cor</th>
+           <th>Uso</th>
+         </tr>
+         <tr>
+           <td><b>GND</b></td>
+           <td>⚪ Branco</td>
+           <td>Display, RC522, Arduino, button_F2, led_F2, button_F4. led_F4, led1_F4, led_mes_F4, button_F5, led1_F5, led_mes_F5, temperatura, qualidade_ar, button_F1, button_F2, button_F3, button_F4 </td>
+         </tr>
+         <tr>
+           <td><b>5V</b></td>
+           <td>🔴 Vermelho</td>
+           <td>Arduino, led_F2, led1_F4, led_mes_F4, led1_F5, led_mes_F5, temperatura, qualidade_ar</td>
+         </tr>
+         <tr>
+           <td><b>3.3V</b></td>
+           <td>🟡 Amarelo</td>
+           <td>Arduino, Display, RC522  </td>
+         </tr>
+  </table>
+</div>
 
 ### Integração: Módulo RFID e Display OLED  
 
