@@ -133,9 +133,7 @@ Como vários componentes começaram a utilizar as mesmas portas do Arduino, foi 
 <div align="center">
 <table>
  <tr>
-   <td>
       <img src="imagens/AranhaCompleta.jpeg" alt=" placa de fenolite completa" width="600px">
-   </td>
  </tr>
 <tr>
  <table border="1">
