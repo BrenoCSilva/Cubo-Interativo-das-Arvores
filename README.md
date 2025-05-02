@@ -374,3 +374,8 @@ Os únicos contratempos aconteceram na programação e em um botão físico. Em 
 </div>
 
 
+# 🎥 Vídeo do Protótipo
+Você pode conferir o vídeo completo clicando no link abaixo:
+👉 [Vídeo do protótipo finalizado](https://youtu.be/VTNj8Cz4gfk)
+
+
