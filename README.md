@@ -352,3 +352,13 @@ Observação: Na imagem, foi utilizado um DHT21, porém as conexões são as mes
 </div>
 
 
+## dificuldades e expectativas 
+
+ O protótipo foi desenvolvido em quanto a disciplina estava sendo cursada, porém não definitvamente desde o início, já que em sua primeira metade foi apresentado conceitos e noções de hardware como módulos e sistemas embarcados para capacitar o aluno a desenvolver algo. Como o CIA foi realizado em parceria com o curso de Arquitetura e urbanisno, qye trouxe o  tema arborização o como a ideia central. Desde muito cedo, mesmo sem o conhecimento técnico ainda consolidado, houve vários encontros para discutir o que seria projetado e ideias de como isso poderia ser feito. Como eram dois grupos distintos trabalhando com o tema, a decisão final foi de alguma forma interligar em algum ponto ambos. Então o CIA seria o prótotipo móvel, e o {ok} como o fixo.  como o projeto foi exposto ao público em uma sala no CT12 do campus, houve a escolha de definir o percurso nas proximidades do local. Assim através da face de apoio, que foi utilziada como espaço para projetar o mapa de onde estariam localizadas as árvore que foram cadastradas no programa poderia se orientrar de maneira individual sobre o percurso. A imagem abaixo mostra o mapa fixado na face de apoio:
+
+
+
+
+
+ 
+
