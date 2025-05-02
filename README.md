@@ -352,7 +352,9 @@ Observação: Na imagem, foi utilizado um DHT21, porém as conexões são as mes
 </div>
 
 
-Dificuldades e Expectativas
+# Dificuldades e Expectativas
+<div align="center">
+
 O protótipo foi desenvolvido ao longo da disciplina, embora não desde o início. Na primeira metade do curso, foram apresentados conceitos e noções de hardware, como módulos e sistemas embarcados, para capacitar os alunos a desenvolverem seus projetos. Como o CIA foi realizado em parceria com o curso de Arquitetura e Urbanismo, o tema da arborização foi escolhido como ideia central.
 
 Desde muito cedo, mesmo sem o conhecimento técnico consolidado, tivemos vários encontros para discutir o que seria projetado e como isso poderia ser feito. E foi aí que enfrentei uma das primeiras dificuldades: no início, foi complicado alinhar o que se desejava com o que era possível realizar. Como eu fazia parte do grupo responsável pela parte eletrônica do dispositivo, cabia a mim comunicar se determinada ideia era viável ou não. Mas, na época, eu tinha pouca noção técnica, o que limitou minha capacidade de ser mais assertivo tanto ao propor quanto ao validar ideias.
@@ -360,6 +362,7 @@ Desde muito cedo, mesmo sem o conhecimento técnico consolidado, tivemos vários
 Como eram dois grupos distintos trabalhando com o mesmo tema, decidiu-se interligar ambos em algum ponto. O CIA seria o protótipo móvel, e o {ok}, o fixo. Como o projeto seria exposto ao público em uma sala no CT12 do campus, optou-se por definir um percurso nas proximidades do local. Na “face de apoio”, foi projetado o mapa com a localização das árvores cadastradas no programa, permitindo que os visitantes se orientassem individualmente pelo percurso. A imagem abaixo mostra esse mapa fixado:
 
 <div align="center"> <img src="imagens/faceApoio.jpeg" alt="mapa face apoio" width="200px"> </div>
+
 Sem dúvida, o maior desafio que enfrentei foi fazer as conexões. Quando finalmente recebemos todas as faces do cubo, faltava menos de uma semana para a entrega final. Embora tudo estivesse bem alinhado teoricamente, subestimei a dificuldade de alojar todos os componentes eletrônicos dentro do cubo com tantas conexões. Não previ que isso se tornaria um grande problema. O espaço era extremamente justo, e era difícil conectar os fios sem esbarrar em outros ou alcançar certos pontos internos.
 
 Mesmo que todas as faces funcionassem individualmente, ou mesmo juntas com o cubo estático, isso ainda não era suficiente. A maior provação seria colocar o dispositivo na mão de outra pessoa e ainda assim tudo funcionar. E esse era meu maior receio. Pela experiência de montagem, sabia que a movimentação poderia facilmente causar o desligamento de alguma conexão. Se isso ocorresse, encontrar o erro em meio ao emaranhado de fios seria um pesadelo. Provavelmente seria necessário remover uma das faces para realizar a manutenção. Então tudo que eu pensava era: “Quais são os passos que devo executar se algo der errado?”
@@ -367,5 +370,7 @@ Mesmo que todas as faces funcionassem individualmente, ou mesmo juntas com o cub
 No dia da apresentação, o percurso foi feito apenas uma vez, e fui eu quem guiou o grupo com o cubo em mãos. Meus movimentos eram comedidos e conscientes. Acredito que qualquer outra pessoa faria o mesmo, e o sistema teria resistido da mesma forma. Durante toda a exposição, que ocorreu em uma sala junto com os demais projetos, eu não precisei abrir o cubo nem uma vez sequer 🙌.
 
 Os únicos contratempos aconteceram na programação e em um botão físico. Em um momento, o programa travou na tela de busca, e consegui contornar a situação com uma caneta, acionando o botão de reset do Arduino. Em outro, um botão se soltou, e improvisei uma gambiarra difícil até de explicar. Mas, no fim das contas, o programa, as conexões e a proposta funcionaram – e muito bem!
+
+</div>
 
 
