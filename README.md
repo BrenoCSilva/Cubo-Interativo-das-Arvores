@@ -6,6 +6,7 @@ Trabalho desenvolvido na disciplina Projeto Integrado à Computação I, sob a o
  - Felipe Soares;
  - Marcela Magris;
  - Raissa Almeida.
+   
 O projeto tem como objetivo a criação de um cubo interativo que exibe informações sobre árvores previamente selecionadas e coleta dados ambientais do entorno, como a temperatura e a qualidade do ar. Cada face do cubo apresenta uma categoria específica de informações, como porte da árvore, floração, frutificação, dados do ambiente e dados gerais.
 
 ## Disposição das Informações  
