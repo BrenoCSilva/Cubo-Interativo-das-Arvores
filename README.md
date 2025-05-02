@@ -353,8 +353,8 @@ Observação: Na imagem, foi utilizado um DHT21, porém as conexões são as mes
 
 
 # Dificuldades e Expectativas
-<div align="center">
 
+<div >
 O protótipo foi desenvolvido ao longo da disciplina, embora não desde o início. Na primeira metade do curso, foram apresentados conceitos e noções de hardware, como módulos e sistemas embarcados, para capacitar os alunos a desenvolverem seus projetos. Como o CIA foi realizado em parceria com o curso de Arquitetura e Urbanismo, o tema da arborização foi escolhido como ideia central.
 
 Desde muito cedo, mesmo sem o conhecimento técnico consolidado, tivemos vários encontros para discutir o que seria projetado e como isso poderia ser feito. E foi aí que enfrentei uma das primeiras dificuldades: no início, foi complicado alinhar o que se desejava com o que era possível realizar. Como eu fazia parte do grupo responsável pela parte eletrônica do dispositivo, cabia a mim comunicar se determinada ideia era viável ou não. Mas, na época, eu tinha pouca noção técnica, o que limitou minha capacidade de ser mais assertivo tanto ao propor quanto ao validar ideias.
