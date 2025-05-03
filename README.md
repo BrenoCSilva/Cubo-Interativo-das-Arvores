@@ -277,6 +277,21 @@ Observação: Na imagem, foi utilizado um DHT21, porém as conexões são as mes
  <img src="imagens/esp32.jpeg" alt="Integração 1" width="200px"> 
 </div> 
 
+<div align="center"> 
+ <img src="imagens/esp32.jpeg" alt="Integração 1" width="200px"> 
+  <table>
+  <tr>
+    <td>
+      <img src="imagens/AHT21sensorfrente.jpeg" alt="Integracao 1" width="200px">
+       <p>Testes inic</p>
+    </td>
+    <td>
+     <img src="imagens/AHT21sensorlateral.jpeg" alt="Integracao 1" width="200px">
+   </td>
+  </tr>
+  </table>
+</div> 
+
 # Processo de Montagem II e testes 
 
 <div align="center">
