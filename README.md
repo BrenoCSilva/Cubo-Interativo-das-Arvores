@@ -236,7 +236,7 @@ O link abaixo é um pequeno vídeo onde explico o funcionamento das **Faces 1 (I
 
 <table border="1" cellspacing="0" cellpadding="6">
   <tr>
-    <th>Porta</th>
+    <th>Trilha</th>
     <th>Cor</th>
     <th>Uso</th>
   </tr>
