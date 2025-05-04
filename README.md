@@ -407,7 +407,20 @@ Observação: Na imagem, foi utilizado um DHT21, porém as conexões são as mes
 
 <p>Como eram dois grupos distintos trabalhando com o mesmo tema, decidiu-se interligar ambos em algum ponto. O CIA seria o protótipo móvel, e o [repositório], o fixo. Como o projeto seria exposto ao público em uma sala no CT12 do campus, optou-se por definir um percurso nas proximidades do local. Na “face de apoio”, foi projetado o mapa com a localização das árvores cadastradas no programa, permitindo que os visitantes se orientassem individualmente pelo percurso. A imagem abaixo mostra esse mapa fixado:</p>
 
-<div align="center"> <img src="imagens/faceApoio.jpeg" alt="mapa face apoio" width="200px"> </div>
+<div align="center"> 
+  <table>
+  <tr>
+    <td>
+      <img src="imagens/mapa.pdf" alt="mapa" width="200px">
+       <p>AHT21 & ENS160 </p>
+    </td>
+    <td>
+     <img src="imagens/maps_cubo.jpg" alt="maps_cubo" width="200px">
+      <p>AHT21 & ENS160 </p>
+   </td>
+  </tr>
+  </table>
+</div>
 
 <p>Sem dúvida, o maior desafio que enfrentei foi fazer as conexões. Quando finalmente recebemos todas as faces do cubo, faltava menos de uma semana para a entrega final. Embora tudo estivesse bem alinhado teoricamente, subestimei a dificuldade de alojar todos os componentes eletrônicos dentro do cubo com tantas conexões. Não previ que isso se tornaria um grande problema. O espaço era extremamente justo, e era difícil conectar os fios sem esbarrar em outros ou alcançar certos pontos internos.</p>
 
