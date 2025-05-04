@@ -281,17 +281,17 @@ Observação: Na imagem, foi utilizado um DHT21, porém as conexões são as mes
   <table>
   <tr>
     <td>
-      <img src="imagens/AHT21sensorfrente.jpg" alt="Integracao 1" width="200px">
+      <img src="imagens/AHT21sensorfrente.jpg" alt="sensor AHT21" width="200px">
        <p>Testes inic</p>
     </td>
     <td>
-     <img src="imagens/AHT21sensorlateral.jpg" alt="Integracao 1" width="200px">
+     <img src="imagens/AHT21sensorlateral.jpg" alt="sensor AHT21 lateral" width="200px">
    </td>
     <td>
-     <img src="imagens/esp.jpg" alt="Integracao 1" width="200px">
+     <img src="imagens/esp.jpg" alt="esp 32" width="200px">
    </td>
     <td>
-     <img src="imagens/espvertical.jpg" alt="Integracao 1" width="200px">
+     <img src="imagens/esp_vertical.jpg" alt="esp vertical" width="200px">
    </td>
   </tr>
   </table>
