@@ -388,7 +388,7 @@ Observação: Na imagem, foi utilizado um DHT21, porém as conexões são as mes
      <img src="imagens/copa.jpg" alt="copa" width="200px">
    </td>
     <td>
-     <img src="imagens/mes_led.jpg" alt="mes led" width="200px">
+     <img src="imagens/cubo_flash.jpg" alt="cubo_flash" width="200px">
    </td>
    <td>
      <img src="imagens/campo.jpg" alt="Integracao 1" width="200px">
