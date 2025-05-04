@@ -286,10 +286,11 @@ Observação: Na imagem, foi utilizado um DHT21, porém as conexões são as mes
     </td>
     <td>
      <img src="imagens/AHT21sensorlateral.jpg" alt="sensor AHT21 lateral" width="200px">
-      <p>AHT21 & ENS160 </p
+      <p>AHT21 & ENS160 </p>
    </td>
     <td>
      <img src="imagens/esp.jpg" alt="esp 32" width="200px">
+     <p>ESP32 + AHT21 & ENS160 </p>
    </td>
     <td>
      <img src="imagens/esp_vertical.jpg" alt="esp vertical" width="200px">
@@ -404,7 +405,7 @@ Observação: Na imagem, foi utilizado um DHT21, porém as conexões são as mes
 
 <p>Desde muito cedo, mesmo sem o conhecimento técnico consolidado, tivemos vários encontros para discutir o que seria projetado e como isso poderia ser feito. E foi aí que enfrentei uma das primeiras dificuldades: no início, foi complicado alinhar o que se desejava com o que era possível realizar. Como eu fazia parte do grupo responsável pela parte eletrônica do dispositivo, cabia a mim comunicar se determinada ideia era viável ou não. Mas, na época, eu tinha pouca noção técnica, o que limitou minha capacidade de ser mais assertivo tanto ao propor quanto ao validar ideias.</p>
 
-<p>Como eram dois grupos distintos trabalhando com o mesmo tema, decidiu-se interligar ambos em algum ponto. O CIA seria o protótipo móvel, e o {ok}, o fixo. Como o projeto seria exposto ao público em uma sala no CT12 do campus, optou-se por definir um percurso nas proximidades do local. Na “face de apoio”, foi projetado o mapa com a localização das árvores cadastradas no programa, permitindo que os visitantes se orientassem individualmente pelo percurso. A imagem abaixo mostra esse mapa fixado:</p>
+<p>Como eram dois grupos distintos trabalhando com o mesmo tema, decidiu-se interligar ambos em algum ponto. O CIA seria o protótipo móvel, e o [repositório], o fixo. Como o projeto seria exposto ao público em uma sala no CT12 do campus, optou-se por definir um percurso nas proximidades do local. Na “face de apoio”, foi projetado o mapa com a localização das árvores cadastradas no programa, permitindo que os visitantes se orientassem individualmente pelo percurso. A imagem abaixo mostra esse mapa fixado:</p>
 
 <div align="center"> <img src="imagens/faceApoio.jpeg" alt="mapa face apoio" width="200px"> </div>
 
