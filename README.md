@@ -420,7 +420,7 @@ Observação: Na imagem, foi utilizado um DHT21, porém as conexões são as mes
 
 # 🎥 Vídeo do Protótipo
 Você pode conferir o vídeo completo clicando no link abaixo:</p>
-👉 [Vídeo do protótipo finalizado](https://youtu.be/VTNj8Cz4gfk)
-👉 [Vídeo curto]((https://youtube.com/shorts/Ozqm23LIcGA))
+👉 [Vídeo do protótipo finalizado](https://youtu.be/VTNj8Cz4gfk) </p>
+👉 [Vídeo curto](https://youtube.com/shorts/Ozqm23LIcGA)
 
 
