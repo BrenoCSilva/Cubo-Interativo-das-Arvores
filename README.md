@@ -411,7 +411,7 @@ Observação: Na imagem, foi utilizado um DHT21, porém as conexões são as mes
   <table>
   <tr>
     <td>
-      <a href="imagens/maps.png" target="_blank"></a
+      <a href="imagens/mapa.png" target="_blank"></a
     </td>
     <td>
      <img src="imagens/maps_cubo.jpg" alt="maps_cubo" width="200px">
