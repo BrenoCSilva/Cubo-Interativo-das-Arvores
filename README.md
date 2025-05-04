@@ -287,6 +287,12 @@ Observação: Na imagem, foi utilizado um DHT21, porém as conexões são as mes
     <td>
      <img src="imagens/AHT21sensorlateral.jpg" alt="Integracao 1" width="200px">
    </td>
+    <td>
+     <img src="imagens/esp.jpg" alt="Integracao 1" width="200px">
+   </td>
+    <td>
+     <img src="imagens/espvertical.jpg" alt="Integracao 1" width="200px">
+   </td>
   </tr>
   </table>
 </div> 
