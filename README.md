@@ -271,7 +271,7 @@ O link abaixo é um pequeno vídeo onde explico o funcionamento das **Faces 1 (I
 
 A imagem abaixo mostra a configuração do hardware, onde duas fitas LED de 9 segmentos (representadas por apenas 1 segmento na imagem) estão conectadas ao ESP32, juntamente com os sensores ENS160 e AHT21.
 
-Observação: Na imagem, foi utilizado um DHT21, porém as conexões são as mesmas utilizadas no protótipo com o AHT21.
+Observação: Na imagem, foi utilizado um DHT21, porém as conexões são as mesmas utilizadas no protótipo com o AHT21 & ENS160 (estão no mesmo módulo).
 
 <div align="center"> 
  <img src="imagens/esp32.jpeg" alt="Integração 1" width="200px"> 
@@ -282,10 +282,11 @@ Observação: Na imagem, foi utilizado um DHT21, porém as conexões são as mes
   <tr>
     <td>
       <img src="imagens/AHT21sensorfrente.jpg" alt="sensor AHT21" width="200px">
-       <p>Testes inic</p>
+       <p>AHT21 & ENS160 </p>
     </td>
     <td>
      <img src="imagens/AHT21sensorlateral.jpg" alt="sensor AHT21 lateral" width="200px">
+      <p>AHT21 & ENS160 </p
    </td>
     <td>
      <img src="imagens/esp.jpg" alt="esp 32" width="200px">
