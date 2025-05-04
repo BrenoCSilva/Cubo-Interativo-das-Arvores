@@ -18,7 +18,7 @@ Cada face do cubo interativo apresenta uma categoria específica de informaçõe
 - **Face 3:** Dados ambientais (temperatura e qualidade do ar).  
 - **Face 4:** Floração (indicação de presença e meses de floração).  
 - **Face 5:** Frutificação (indicação de presença e meses de frutificação).  
-- **Face 6:** Face cega - Sem informações, utilizada para apoio.  
+- **Face 6:** Face cega - utilizada para apoio, possui um mapa do percurso.  
  
 # Componentes
 
