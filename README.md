@@ -376,6 +376,24 @@ Observação: Na imagem, foi utilizado um DHT21, porém as conexões são as mes
  </tr>
 </table>
 </div>
+<div align="center">
+  <table>
+ <tr>
+   <td>
+      <img src="imagens/cubo_aberto.jpg" alt="cubo_aberto" width="200px">
+   </td>
+    <td>
+     <img src="imagens/copa.jpg" alt="copa" width="200px">
+   </td>
+    <td>
+     <img src="imagens/mes_led.jpg" alt="mes led" width="200px">
+   </td>
+   <td>
+     <img src="imagens/campo.jpg" alt="Integracao 1" width="200px">
+   </td>
+ </tr>
+</table>
+</div>
 
 
 # Dificuldades e Expectativas
